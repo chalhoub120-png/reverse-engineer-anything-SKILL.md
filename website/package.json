@@ -1,0 +1,12 @@
+{
+  "name": "toters-clone-website",
+  "version": "1.0.0",
+  "description": "Arabic RTL landing page for the Toters-like delivery app",
+  "scripts": {
+    "start": "npx serve -p 5174 -l 0.0.0.0 .",
+    "dev": "npx serve -p 5174 -l 0.0.0.0 ."
+  },
+  "dependencies": {
+    "serve": "^14.2.6"
+  }
+}
